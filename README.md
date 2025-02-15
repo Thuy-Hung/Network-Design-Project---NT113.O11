@@ -1,7 +1,9 @@
 # Network Design for O-UIT Outsourcing Company
-
+## Documentation
+[Documentation](https://drive.google.com/file/d/1K0o1txtt1g1A3zu_i8aN49EX1GBwumhd/view?usp=drive_link)
 ## Overview
 This project is conducted by Group 10, Class NT113.O11, Faculty of Computer Networks and Communications, University of Information Technology - VNU-HCM. We designed a network system for Outsource O-UIT with a headquarters in Thu Duc and a branch in District 3.
+
 
 ### 1. Headquarters
 The headquarters is a five-story building that includes a Data Center and various offices for CEO, HR, Project Managers, Technical Managers, Business Analysts, IT Managers, and teams of Developers and Testers working on international projects. The building layout is as follows:
